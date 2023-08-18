@@ -1,0 +1,2 @@
+# Ignore os checkpoints do notebook
+.ipynb_checkpoints
